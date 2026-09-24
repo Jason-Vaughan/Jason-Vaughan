@@ -20,7 +20,7 @@ I build robust production tools, high-performance routing backends, and agentic 
 ---
 
 ### 🏗️ Contribution Architecture
-![3D Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
