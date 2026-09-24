@@ -20,7 +20,7 @@ I build robust production tools, high-performance routing backends, and agentic 
 ---
 
 ### 🏗️ Contribution Architecture
-<img src="./profile-3d-contrib/profile-night-green.svg?v=1" alt="3D Contribution Architecture">
+<a href="#-contribution-architecture"><img src="https://raw.githubusercontent.com/Jason-Vaughan/Jason-Vaughan/main/profile-3d-contrib/profile-night-green.svg?v=1" alt="3D Contribution Architecture"></a>
 
 ---
 
