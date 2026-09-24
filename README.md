@@ -28,4 +28,4 @@ I build robust production tools, high-performance routing backends, and agentic 
 *   **[TangleClaw](https://tangleclaw.com):** An open-source, local-first AI-native SDLC orchestration platform.
 *   **[TangleBrain](https://jasonvaughan.com/?pass=github#tanglebrain):** A local LLM router and gateway that manages concurrent local/cloud inference backends.
 *   **[TiLT](https://tilt16.com):** A production time-tracking PWA that automates complex payroll calculations for event workforces.
-*   **[ClawBridge](https://jasonvaughan.com/?pass=github#clawhub):** An HTTP-to-IPC daemon exposing local agent instances as supervised background build services.
+*   **[Notse](https://jasonvaughan.com/notse/):** A networked teleprompter and PowerPoint automation system built for live broadcast and event production.
