@@ -25,7 +25,7 @@ I build robust production tools, high-performance routing backends, and agentic 
 ---
 
 ### 🛠️ Core Systems & Projects
-*   **[TangleClaw](https://jasonvaughan.com/?pass=github#tangleclaw):** A zero-dependency remote terminal and process orchestration plane for persistent session management.
+*   **[TangleClaw](https://jasonvaughan.com/?pass=github#tangleclaw):** An open-source, local-first AI-native SDLC orchestration platform.
 *   **[TangleBrain](https://jasonvaughan.com/?pass=github#tanglebrain):** A local LLM router and gateway that manages concurrent local/cloud inference backends.
 *   **[TiLT](https://jasonvaughan.com/?pass=github#projects):** A production time-tracking PWA that automates complex payroll calculations for event workforces.
 *   **[ClawBridge](https://jasonvaughan.com/?pass=github#clawhub):** An HTTP-to-IPC daemon exposing local agent instances as supervised background build services.
