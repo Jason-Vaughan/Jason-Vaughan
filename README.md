@@ -2,7 +2,7 @@
 
 **Systems Builder | Infrastructure Lead | AI Tooling Developer**
 
-I build robust production tools, high-performance routing backends, and agentic AI frameworks that replace manual operational toil with scalable automation. For the last 25 years, I've managed the technical execution, zero-fail network topology, and fiber-optic infrastructure for some of the world's largest flagship broadcasts (Google I/O, AWS re:Invent, Salesforce Dreamforce). 
+I build robust production tools, high-performance routing backends, and agentic AI frameworks that replace manual operational toil with scalable automation. Right now, my absolute focus is on meta-engineering: building the foundational orchestration systems that allow us to build everything else faster. For the last 25 years, I've managed the technical execution, zero-fail network topology, and fiber-optic infrastructure for some of the world's largest flagship broadcasts (Google I/O, AWS re:Invent, Salesforce Dreamforce). 
 
 🌐 **[View my Developer Portfolio](https://jasonvaughan.com/?pass=github)**
 
