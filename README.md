@@ -10,11 +10,11 @@ I build robust production tools, high-performance routing backends, and agentic 
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2081](https://github.com/Jason-Vaughan/TangleClaw/pull/2081) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-2. 💪 Opened PR [#2081](https://github.com/Jason-Vaughan/TangleClaw/pull/2081) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-3. ℹ️ Labeled issue [#2080](https://github.com/Jason-Vaughan/TangleClaw/issues/2080) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-4. ❗ Opened issue [#2080](https://github.com/Jason-Vaughan/TangleClaw/issues/2080) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-5. 🚀 Published release [v5.30.0](https://github.com/Jason-Vaughan/TangleClaw/releases/tag/v5.30.0) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+1. 🗣 Commented on [#2086](https://github.com/Jason-Vaughan/TangleClaw/issues/2086#issuecomment-5979490404) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+2. 🎉 Merged PR [#2098](https://github.com/Jason-Vaughan/TangleClaw/pull/2098) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+3. 🎉 Merged PR [#171](https://github.com/Jason-Vaughan/jasonvaughan.com/pull/171) in [Jason-Vaughan/jasonvaughan.com](https://github.com/Jason-Vaughan/jasonvaughan.com)
+4. 💪 Opened PR [#171](https://github.com/Jason-Vaughan/jasonvaughan.com/pull/171) in [Jason-Vaughan/jasonvaughan.com](https://github.com/Jason-Vaughan/jasonvaughan.com)
+5. 💪 Opened PR [#2098](https://github.com/Jason-Vaughan/TangleClaw/pull/2098) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 <!--END_SECTION:activity-->
 
 ---
