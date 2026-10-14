@@ -10,11 +10,11 @@ I build robust production tools, high-performance routing backends, and agentic 
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2396](https://github.com/Jason-Vaughan/TangleClaw/issues/2396) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-2. ❗ Opened issue [#2396](https://github.com/Jason-Vaughan/TangleClaw/issues/2396) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-3. 🗣 Commented on [#2071](https://github.com/Jason-Vaughan/TangleClaw/issues/2071#issuecomment-6160702370) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-4. ℹ️ Unlabeled issue [#2071](https://github.com/Jason-Vaughan/TangleClaw/issues/2071) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-5. ❗ Opened issue [#2395](https://github.com/Jason-Vaughan/TangleClaw/issues/2395) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+1. 🗣 Commented on [#1836](https://github.com/Jason-Vaughan/TangleClaw/issues/1836#issuecomment-6161460609) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+2. 🗣 Commented on [#1085](https://github.com/Jason-Vaughan/TangleClaw/issues/1085#issuecomment-6161024795) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+3. 🗣 Commented on [#2059](https://github.com/Jason-Vaughan/TangleClaw/issues/2059#issuecomment-6160886004) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+4. 🗣 Commented on [#1836](https://github.com/Jason-Vaughan/TangleClaw/issues/1836#issuecomment-6161115342) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+5. 🗣 Commented on [#2389](https://github.com/Jason-Vaughan/TangleClaw/issues/2389#issuecomment-6161102500) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 <!--END_SECTION:activity-->
 
 ---
