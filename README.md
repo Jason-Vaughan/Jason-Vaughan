@@ -10,11 +10,11 @@ I build robust production tools, high-performance routing backends, and agentic 
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2072](https://github.com/Jason-Vaughan/TangleClaw/issues/2072#issuecomment-6161584432) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-2. 🗣 Commented on [#2072](https://github.com/Jason-Vaughan/TangleClaw/issues/2072#issuecomment-6160868017) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-3. 🗣 Commented on [#2072](https://github.com/Jason-Vaughan/TangleClaw/issues/2072#issuecomment-6161540597) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-4. 🗣 Commented on [#1836](https://github.com/Jason-Vaughan/TangleClaw/issues/1836#issuecomment-6161460609) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-5. 🗣 Commented on [#1085](https://github.com/Jason-Vaughan/TangleClaw/issues/1085#issuecomment-6161024795) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+1. ❗ Opened issue [#1000](https://github.com/brookstalley/prawduct/issues/1000) in [brookstalley/prawduct](https://github.com/brookstalley/prawduct)
+2. ❗ Opened issue [#999](https://github.com/brookstalley/prawduct/issues/999) in [brookstalley/prawduct](https://github.com/brookstalley/prawduct)
+3. 🗣 Commented on [#2072](https://github.com/Jason-Vaughan/TangleClaw/issues/2072#issuecomment-6161584432) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+4. 🗣 Commented on [#2072](https://github.com/Jason-Vaughan/TangleClaw/issues/2072#issuecomment-6160868017) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+5. 🗣 Commented on [#2072](https://github.com/Jason-Vaughan/TangleClaw/issues/2072#issuecomment-6161540597) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 <!--END_SECTION:activity-->
 
 ---
