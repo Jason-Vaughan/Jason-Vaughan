@@ -10,11 +10,11 @@ I build robust production tools, high-performance routing backends, and agentic 
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/tonydzi/sqlite-graph-memory/pull/87) in [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory)
-2. 🎉 Merged PR [#85](https://github.com/tonydzi/sqlite-graph-memory/pull/85) in [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory)
-3. 🎉 Merged PR [#84](https://github.com/tonydzi/sqlite-graph-memory/pull/84) in [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory)
-4. 🎉 Merged PR [#86](https://github.com/tonydzi/sqlite-graph-memory/pull/86) in [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory)
-5. 🗣 Commented on [#2873](https://github.com/Jason-Vaughan/TangleClaw/pull/2873#issuecomment-6613123378) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+1. ❗ Opened issue [#2874](https://github.com/Jason-Vaughan/TangleClaw/issues/2874) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+2. 💪 Opened PR [#7](https://github.com/Jason-Vaughan/sqlite-graph-memory/pull/7) in [Jason-Vaughan/sqlite-graph-memory](https://github.com/Jason-Vaughan/sqlite-graph-memory)
+3. 💪 Opened PR [#6](https://github.com/Jason-Vaughan/sqlite-graph-memory/pull/6) in [Jason-Vaughan/sqlite-graph-memory](https://github.com/Jason-Vaughan/sqlite-graph-memory)
+4. 💪 Opened PR [#5](https://github.com/Jason-Vaughan/sqlite-graph-memory/pull/5) in [Jason-Vaughan/sqlite-graph-memory](https://github.com/Jason-Vaughan/sqlite-graph-memory)
+5. ❗ Opened issue [#93](https://github.com/tonydzi/sqlite-graph-memory/issues/93) in [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory)
 <!--END_SECTION:activity-->
 
 ---
