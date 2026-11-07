@@ -10,11 +10,11 @@ I build robust production tools, high-performance routing backends, and agentic 
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/Jason-Vaughan/hdmijester/issues/8) in [Jason-Vaughan/hdmijester](https://github.com/Jason-Vaughan/hdmijester)
-2. ❗ Opened issue [#7](https://github.com/Jason-Vaughan/hdmijester/issues/7) in [Jason-Vaughan/hdmijester](https://github.com/Jason-Vaughan/hdmijester)
-3. 🗣 Commented on [#2930](https://github.com/Jason-Vaughan/TangleClaw/issues/2930#issuecomment-6701121883) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-4. 🎉 Merged PR [#6](https://github.com/Jason-Vaughan/hdmijester/pull/6) in [Jason-Vaughan/hdmijester](https://github.com/Jason-Vaughan/hdmijester)
-5. 🔒 Closed issue [#5](https://github.com/Jason-Vaughan/hdmijester/issues/5) in [Jason-Vaughan/hdmijester](https://github.com/Jason-Vaughan/hdmijester)
+1. 🎉 Merged PR [#97](https://github.com/tonydzi/sqlite-graph-memory/pull/97) in [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory)
+2. ❗ Opened issue [#8](https://github.com/Jason-Vaughan/hdmijester/issues/8) in [Jason-Vaughan/hdmijester](https://github.com/Jason-Vaughan/hdmijester)
+3. ❗ Opened issue [#7](https://github.com/Jason-Vaughan/hdmijester/issues/7) in [Jason-Vaughan/hdmijester](https://github.com/Jason-Vaughan/hdmijester)
+4. 🗣 Commented on [#2930](https://github.com/Jason-Vaughan/TangleClaw/issues/2930#issuecomment-6701121883) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+5. 🎉 Merged PR [#6](https://github.com/Jason-Vaughan/hdmijester/pull/6) in [Jason-Vaughan/hdmijester](https://github.com/Jason-Vaughan/hdmijester)
 <!--END_SECTION:activity-->
 
 ---
