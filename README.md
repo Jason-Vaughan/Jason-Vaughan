@@ -10,11 +10,11 @@ I build robust production tools, high-performance routing backends, and agentic 
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/tonydzi/sqlite-graph-memory/pull/96#issuecomment-6717252433) in [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory)
-2. 🎉 Merged PR [#2936](https://github.com/Jason-Vaughan/TangleClaw/pull/2936) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-3. 💪 Opened PR [#2936](https://github.com/Jason-Vaughan/TangleClaw/pull/2936) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-4. 🎉 Merged PR [#95](https://github.com/tonydzi/sqlite-graph-memory/pull/95) in [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory)
-5. 🔒 Closed issue [#58](https://github.com/Jason-Vaughan/Ariadne/issues/58) in [Jason-Vaughan/Ariadne](https://github.com/Jason-Vaughan/Ariadne)
+1. 🗣 Commented on [#2942](https://github.com/Jason-Vaughan/TangleClaw/pull/2942#issuecomment-6727619551) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+2. 🗣 Commented on [#2943](https://github.com/Jason-Vaughan/TangleClaw/pull/2943#issuecomment-6727619279) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+3. 🗣 Commented on [#2942](https://github.com/Jason-Vaughan/TangleClaw/pull/2942#issuecomment-6727618128) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+4. 🗣 Commented on [#2944](https://github.com/Jason-Vaughan/TangleClaw/pull/2944#issuecomment-6727604058) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+5. 🗣 Commented on [#2944](https://github.com/Jason-Vaughan/TangleClaw/pull/2944#issuecomment-6727588518) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 <!--END_SECTION:activity-->
 
 ---
