@@ -10,11 +10,11 @@ I build robust production tools, high-performance routing backends, and agentic 
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v6.5.5 — Eliminate false-positive V6 Working/busy indicators and fix TCC-proxy scrollback capture](https://github.com/Jason-Vaughan/TangleClaw/releases/tag/v6.5.5) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-2. 🎉 Merged PR [#3185](https://github.com/Jason-Vaughan/TangleClaw/pull/3185) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-3. 🗣 Commented on [#3185](https://github.com/Jason-Vaughan/TangleClaw/pull/3185#issuecomment-7073728816) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-4. 💪 Opened PR [#3185](https://github.com/Jason-Vaughan/TangleClaw/pull/3185) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
-5. 🔒 Closed issue [#3182](https://github.com/Jason-Vaughan/TangleClaw/issues/3182) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+1. 🗣 Commented on [#3229](https://github.com/Jason-Vaughan/TangleClaw/pull/3229#issuecomment-7093678043) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+2. 🗣 Commented on [#3224](https://github.com/Jason-Vaughan/TangleClaw/pull/3224#issuecomment-7093644019) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+3. 🗣 Commented on [#3224](https://github.com/Jason-Vaughan/TangleClaw/pull/3224#issuecomment-7093554884) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+4. 🗣 Commented on [#3225](https://github.com/Jason-Vaughan/TangleClaw/pull/3225#issuecomment-7093506094) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
+5. 🎉 Merged PR [#3228](https://github.com/Jason-Vaughan/TangleClaw/pull/3228) in [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw)
 <!--END_SECTION:activity-->
 
 ---
